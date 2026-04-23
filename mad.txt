@@ -1,9 +1,9 @@
-I have a pet _bulldog__ (noun) named Charles.
+I have a pet ______ (noun) named Charles.
 
-He is very ______ (adjective).
+He is very cute (adjective).
 
-I feed him organic, locally sourced ______ (noun).
+I feed him organic, locally sourced chicken breast (noun).
 
-He is only about the size of my hand (noun).
+He is only about the size of my ______ (noun).
 
 I named him after my favorite ______ (noun).
