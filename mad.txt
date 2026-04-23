@@ -1,4 +1,4 @@
-I have a pet ______ (noun) named Charles.
+I have a pet _petdog_____ (noun) named Charles.
 
 He is very cute (adjective).
 
